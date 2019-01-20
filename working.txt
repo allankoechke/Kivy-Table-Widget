@@ -1,0 +1,13 @@
+
+
+->pass a list to the tables(x) where x is a list or a list of lists
+        x=[]
+        or
+          x=[[],[],[]]
+
+        tb=Table()
+        tb.tables(x)
+
+-> To select a row, click the number col associated with the desired row
+-> To delete a row, select a row then click the delete command
+-> Clear removes all table data
